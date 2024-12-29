@@ -1,0 +1,48 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Coffee Machine Simulator with Java/*
+!/Coffee Machine Simulator with Java/task/
+/Coffee Machine Simulator with Java/task/*
+!/Coffee Machine Simulator with Java/task/src
+
+# Project exclude paths
+/Topics/Arrays as parameters/Get first and last elements/out/
+/Topics/Arrays as parameters/Get first and last elements/out/production/classes/
+/Topics/Combining constants with enum/Days of week/out/
+/Topics/Combining constants with enum/Days of week/out/production/classes/
+/Topics/Combining constants with enum/Enum weekday from integer input/out/
+/Topics/Combining constants with enum/Enum weekday from integer input/out/production/classes/
+/Topics/Defining classes/Creating a book class and displaying book details/out/
+/Topics/Defining classes/Creating a book class and displaying book details/out/production/classes/
+/Topics/Functional decomposition/Calculator with four methods/out/
+/Topics/Functional decomposition/Calculator with four methods/out/production/classes/
+/Topics/Iterating over arrays/Check if an array is sorted ascending/out/
+/Topics/Iterating over arrays/Check if an array is sorted ascending/out/production/classes/
+/Topics/Iterating over arrays/Right Rotation/out/
+/Topics/Iterating over arrays/Right Rotation/out/production/classes/
+/Topics/Iterating over arrays/The maximum product of adjacent elements/out/
+/Topics/Iterating over arrays/The maximum product of adjacent elements/out/production/classes/
+/Topics/Method  main/Calculating factorial of a given number/out/
+/Topics/Method  main/Calculating factorial of a given number/out/production/classes/
+/Topics/Method  main/Count the number of characters in a given string/out/
+/Topics/Method  main/Count the number of characters in a given string/out/production/classes/
+/Topics/Method  main/Fixing errors in main/out/
+/Topics/Method  main/Fixing errors in main/out/production/classes/
+/Topics/Multiple conditions  switch/Floor-space of the room/out/
+/Topics/Multiple conditions  switch/Floor-space of the room/out/production/classes/
+/Topics/Multiple conditions  switch/Harry Potter/out/
+/Topics/Multiple conditions  switch/Harry Potter/out/production/classes/
+/Topics/Static members/Detail manufacturing/out/
+/Topics/Static members/Detail manufacturing/out/production/classes/
+/Topics/Static members/Project constants and methods/out/
+/Topics/Static members/Project constants and methods/out/production/classes/
